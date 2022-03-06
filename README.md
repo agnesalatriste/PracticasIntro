@@ -1,2 +1,0 @@
-# PracticasIntro
-Prácticas de introducción
